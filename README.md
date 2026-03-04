@@ -19,7 +19,7 @@ The analysis focuses on answering the following questions:
 - How do **sales trends vary by month and day of week**?
 
 
-# 📊 Dataset Information
+# Dataset Information
 
 The dataset contains transactional data from multiple coffee shop locations.
 
@@ -61,17 +61,17 @@ The dataset contains transactional data from multiple coffee shop locations.
 
 The following steps were performed during analysis.
 
-## 1️⃣ Data Understanding
+## Data Understanding
 - Dataset inspection
 - Checking structure and datatypes
 - Summary statistics
 
-## 2️⃣ Data Cleaning
+## Data Cleaning
 - Handling missing values
 - Correcting data types
 - Removing unnecessary columns
 
-## 3️⃣ Feature Engineering
+## Feature Engineering
 
 New features were created to enhance analysis:
 
@@ -139,7 +139,7 @@ The dashboard enables quick exploration of sales patterns across different dimen
 ###  Beverages Drive Most Revenue
 Beverages contribute the highest share of revenue across all store locations, making them the primary revenue driver.
 
-### 🏪 Store Performance Varies
+### Store Performance Varies
 Certain locations generate significantly higher revenue, indicating differences in customer traffic and demand.
 
 ### Peak Sales During Specific Hours
@@ -151,7 +151,7 @@ Bakery items and snacks contribute additional revenue alongside beverage purchas
 ### Most Orders Contain Few Items
 The majority of transactions involve purchasing a small number of items.
 
-# 💡 Business Recommendations
+# Business Recommendations
 
 Based on the analysis:
 
@@ -182,5 +182,3 @@ Possible improvements include:
 - Profit margin analysis
 - Automated dashboard updates
 
---
-⭐ This project is part of my **data analytics portfolio demonstrating end-to-end analysis from raw data to business insights.**
